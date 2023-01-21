@@ -3,5 +3,5 @@ reg query "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Softw
 cls
 echo Chargement du fichier..
 timeout 2
-echo Chargement terminer! Fichier disponible!
+echo Chargement terminer ! Fichier disponible !
 pause
